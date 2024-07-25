@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, sou o Bernardo 👋
 
-<!--
-**besoaresn/besoaresn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Sobre mim
+Sou um estudante de Ciência da Computação apaixonado por tecnologia, ansioso para iniciar minha carreira no setor de TI e desenvolvimento de software. Embora esteja no início da minha jornada profissional, trago comigo um conjunto valioso de habilidades e uma grande vontade de aprender e crescer.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades principais
+- Análise crítica
+- Pensamento inovador
+- Habilidades de pesquisa
+- Forte desejo de aprender
+- Pontualidade
+- Dedicação
+- Facilidade com tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Atualmente estou
+- Estudando Ciência da Computação
+- Buscando oportunidades para iniciar minha carreira em TI
+- Aprimorando minhas habilidades em Html, Css, JavaScript, C, Python. 
+
+## 🔭 Objetivos
+- Crescer profissionalmente no setor de TI
+- Contribuir para projetos desafiadores
+- Alcançar posições de alto nível no futuro
+
+## 💡 O que me motiva
+Sou movido pela inovação e pelo desafio. Busco oportunidades que valorizem minha capacidade de pensar fora da caixa e minha ambição de fazer a diferença através da tecnologia.
+
+## 📫 Como me encontrar
+- [LinkedIn]www.linkedin.com/in/besoaresn
+- [Email]bernardosoaresdev@hotmail.com
+- [Twitter]@besoaresn
+
+
+
+---
+
+💼 Aberto a oportunidades de estágio e projetos colaborativos. Vamos construir algo incrível juntos!
