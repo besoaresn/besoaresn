@@ -29,6 +29,5 @@ Sou movido pela inovação e pelo desafio. Busco oportunidades que valorizem min
 - www.linkedin.com/in/besoaresn
 - bernardosoaresdev@hotmail.com
 
---
 
 💼 Aberto a oportunidades de estágio e projetos colaborativos. Vamos construir algo incrível juntos!
