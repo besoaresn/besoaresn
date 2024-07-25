@@ -1,4 +1,4 @@
-## ✌️Hi
+## ✌️Hi!
 
 ## 💻 About Me
 I'm a Computer Science student passionate about technology, eager to start my career in the IT sector and software development. Although I'm at the beginning of my professional journey, I bring with me a valuable set of skills and a strong willingness to learn and grow.
