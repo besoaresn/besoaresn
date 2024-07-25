@@ -26,12 +26,9 @@ Sou um estudante de Ciência da Computação apaixonado por tecnologia, ansioso 
 Sou movido pela inovação e pelo desafio. Busco oportunidades que valorizem minha capacidade de pensar fora da caixa e minha ambição de fazer a diferença através da tecnologia.
 
 ## 📫 Como me encontrar
-- [LinkedIn]www.linkedin.com/in/besoaresn
-- [Email]bernardosoaresdev@hotmail.com
-- [Twitter]@besoaresn
+- www.linkedin.com/in/besoaresn
+- bernardosoaresdev@hotmail.com
 
-
-
----
+--
 
 💼 Aberto a oportunidades de estágio e projetos colaborativos. Vamos construir algo incrível juntos!
