@@ -26,6 +26,6 @@ I'm a Computer Science student passionate about technology, eager to start my ca
 I'm driven by innovation and challenge. I seek opportunities that value my ability to think outside the box and my ambition to make a difference through technology.
 
 ## 📫 How to Reach Me
-www.linkedin.com/in/besoaresn
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white www.linkedin.com/in/besoaresn
 
 bernardosoaresdev@hotmail.com
