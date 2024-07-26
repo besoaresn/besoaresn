@@ -28,5 +28,5 @@ I'm driven by innovation and challenge. I seek opportunities that value my abili
 ## 📫 How to Reach Me
 <a href="https://www.linkedin.com/in/besoaresn" target="_blank
 "><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://bernardosoaresdev@hotmail.com" target="_blank
+<a href="email.tobernardosoaresdev@hotmail.com" target="_blank
 "><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
