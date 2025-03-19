@@ -1,29 +1,21 @@
-## ✌️Hi!
+## ✌️Olá!
 
 ## 💻 About Me
-I'm a Computer Science student passionate about technology, eager to start my career in the IT sector and software development. Although I'm at the beginning of my professional journey, I bring with me a valuable set of skills and a strong willingness to learn and grow.
+Sou estudante de Ciência da Computação, apaixonado por tecnologia, e estou ansioso para iniciar minha carreira no setor de TI e desenvolvimento de software. Embora esteja no início da minha jornada profissional, trago comigo um conjunto valioso de habilidades e uma forte disposição para aprender e crescer.
 
-## 🚀 Skills
-* Critical analysis
-* Innovative thinking
-* Research skills
-* Strong desire to learn
-* Punctuality
-* Dedication
-* Ease with technology
-
-## 🌱 Currently I'm
-* Studying Computer Science
-* Seeking opportunities to start my career in IT
-* Improving my skills in HTML, CSS, JavaScript, C, Python
-
-## 🔭 Goals
-* Grow professionally in the IT sector
-* Contribute to challenging projects
-* Achieve high-level positions in the future
-
-## 💡 What Motivates Me
-I'm driven by innovation and challenge. I seek opportunities that value my ability to think outside the box and my ambition to make a difference through technology.
+## 🚀 Habilidades
+* Análise crítica
+* Pensamento inovador
+* Habilidades de pesquisa
+* Grande desejo de aprender
+* Pontualidade
+* Dedicação
+* Facilidade com tecnologia
+  
+## 🌱 Atualmente, estou
+* Estudando Ciência da Computação
+* Buscando oportunidades para iniciar minha carreira em TI
+* Aperfeiçoando minhas habilidades em C.
 
 ## 📫 How to Reach Me
 <a href="https://www.linkedin.com/in/besoaresn" target="_blank
